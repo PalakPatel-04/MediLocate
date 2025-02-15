@@ -46,7 +46,7 @@ Ensure you have the following installed:
    The application should now be running at `http://localhost:5173/`.
 
 ## Usage
-- Open the app in a web browser (preferably chrome).
+- Open the app in a web browser (preferablly chrome).
 - Allow location access when prompted.
 - It automatically search for hospitals.
 - View details and directions to the facility.
